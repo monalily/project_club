@@ -1,2 +1,2 @@
 # project_club
-responsive webpage for an imaginary club called two wheels
+responsive webpage for an imaginary cycling club called two wheels
