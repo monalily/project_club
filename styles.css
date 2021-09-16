@@ -51,6 +51,18 @@ a:hover {
     font-family: raleway, serif;
     font-weight: 600;
 }
+.nav button{
+    background-color: #FAB162;
+    color:white;
+    padding:5px 1rem;
+    border:1px solid white;
+    border-radius:5px;
+}
+.nav button:hover{
+    background-color:crimson;
+
+
+}
 
 .banner-info {
     padding: 15rem 2rem;
@@ -156,6 +168,10 @@ a:hover {
     display: inline;
     width: 40%;
     border-radius: 5px;
+}
+.event-info:hover{
+    background-color:black;
+    color:white;
 }
 
 .event-container {
